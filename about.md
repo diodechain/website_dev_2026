@@ -84,7 +84,7 @@ article:
     If you’d like to find out more, or chat about how to best collaborate:
   buttons:
   - title: Get in Touch
-    url: "https://contactdiode.paperform.co/"
+    url: "site.forms.contact"
     target: _blank
 
 ---

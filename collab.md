@@ -59,12 +59,12 @@ features:
       Communicate, reference, annotate, manage, and collaborate - everything a team working with real world sensitive data requires.
     buttons:
     - title: CONTACT SALES
-      url: "https://contactdiode.paperform.co/"
+      url: "site.forms.contact"
     - title: HOW IT WORKS
       url: "/how-it-works/"
     - title: REQUEST A DEMO
       class: btn--blank btn--arrow
-      url: "https://diodedemo.paperform.co/"
+      url: "site.forms.demo"
       target: _blank
 
   - title: Access the Internet from Anywhere

@@ -54,6 +54,6 @@ Diode is a Web3 technology company providing privacy-first communication and inf
 
 To explore further please:
 <div class="story__buttons">
-  <a href="{{"https://contactdiode.paperform.co"}}" class="btn" target="">Get in Touch</a>
+  <a href="{{ site.forms.contact }}" class="btn" target="">Get in Touch</a>
   <a href="#download-app" class="btn popup-open" target="">Try Diode Out</a>
 </div>

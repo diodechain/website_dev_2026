@@ -14,7 +14,7 @@ hero:
   buttons:
   - title: Request a Demo
     class: btn--blank btn--arrow
-    url: "https://diodedemo.paperform.co/"
+    url: "site.forms.demo"
     target: _blank
   image: hero/app.webp
 
@@ -72,7 +72,7 @@ features:
     buttons:
     - title: REQUEST A DEMO
       class: btn--blank btn--arrow
-      url: "https://diodedemo.paperform.co/"
+      url: "site.forms.demo"
       target: _blank
 
   - title: Access the Internet from Anywhere

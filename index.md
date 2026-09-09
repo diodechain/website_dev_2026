@@ -23,7 +23,7 @@ hero:
   buttons:
   - title: GET A DEMO
     target: _blank
-    url: "https://diodedemo.paperform.co/"
+    url: "site.forms.demo"
   tagline: Push leverage to your teams, customers, and operations
   #tagline: Permissionless TCP/UDP relays with out-of-the box WireGuard, private AI, messaging, files, and more.
   image: hero/solutions.webp
@@ -49,7 +49,7 @@ headline:
 #    button:
 #      title: Request Demo
 #      class: "btn--blank btn--arrow"
-#      url: "https://diodedemo.paperform.co/"
+#      url: "site.forms.demo"
 #  - title: Global Access
 #    icon: icons/cli.svg
 #    content: No matter where you go in the world, protected access to the Internet, corporate assets, and team #members is seamlessly delivered with Diode.  There are few things more frustrating than to lose access to your #team, tools, or family members when abroad.
@@ -63,7 +63,7 @@ headline:
 #    button:
 #      title: CONTACT SALES
 #      class: "btn--blank btn--arrow"
-#      url: "https://contactdiode.paperform.co/"
+#      url: "site.forms.contact"
 
 
 #### Box: Designed

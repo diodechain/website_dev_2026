@@ -88,7 +88,7 @@ note:
   subheading: |
     [Watch a video for how our plans work.](https://app.docs.diode.io/docs/features/pricing-and-plans/){:target="_blank"} 
 
-    <a href="https://contactdiode.paperform.co/">Contact us for:</a><br>
+    <a href="site.forms.contact">Contact us for:</a><br>
       <br>Enterprise integrations
       <br>Full Diode Network access
       <br>OT/IT asset management
@@ -98,7 +98,7 @@ note:
 
   buttons:
   - title: Get in Touch
-    url: "https://contactdiode.paperform.co/"
+    url: "site.forms.contact"
 
 ---
 

@@ -61,7 +61,7 @@ features:
       url: "/how-it-works/"
     - title: SCHEDULE A DEMO
       class: btn--blank btn--arrow
-      url: "https://diodedemo.paperform.co/"
+      url: "site.forms.demo"
       target: _blank
 
   - title: Resource publication

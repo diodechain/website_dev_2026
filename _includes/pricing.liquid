@@ -61,7 +61,7 @@
                         {% endif %}
                         <div class="pricing__plan-action">
                             {% if plan.action %}
-                                <a href="{{ plan.action }}" class="btn btn-primary">{{ plan.button }}</a>
+                                {% assign href_in = plan.action %}{% include parts/href.liquid %}<a href="{{ href_out }}" class="btn btn-primary">{{ plan.button }}</a>
                             {% else %}
                                 <a href="{{ plan.id.yearly }}" class="btn btn-primary yearly">{{ plan.button }}</a>
                                 <a href="{{ plan.id.monthly }}" class="btn btn-primary monthly">{{ plan.button }}</a>

@@ -64,6 +64,12 @@ nav:
   - title: Blog
     url: "/blog/"
 
+# Form Handler URLs — change once here (same pattern as download.app below).
+forms:
+  contact: "https://diodeforms.diode.link/f/contact?source=diode.io"
+  demo: "https://diodeforms.diode.link/f/demo?source=diode.io"
+  source: "diode.io"
+
 # Other Links
 links:
   download:
