@@ -68,6 +68,9 @@ nav:
 forms:
   contact: "https://diodeforms.diode.link/f/contact?source=diode.io"
   demo: "https://diodeforms.diode.link/f/demo?source=diode.io"
+  affiliate_interest: "https://diodeforms.diode.link/f/affiliate_interest?source=diode.io"
+  affiliate_lead: "https://diodeforms.diode.link/f/affiliate_lead?source=diode.io"
+  vault_waitlist: "https://diodeforms.diode.link/f/vault_waitlist?source=diode.io"
   source: "diode.io"
 
 # Other Links
